@@ -1,0 +1,78 @@
+比赛公告
+2018-11-01 17:38:42
+
+Hint for Strange Checksum/诡异的校验: 
+http://ingelect.esy.es/pdf/FXTH871x7.pdf  20959185b1115208(射频文件解码后的数据) http://ingelect.esy.es/pdf/FXTH871x7.pdf  20959185b1115208(data of decoded spectrum file)
+2018-11-01 17:37:20
+
+Hint for Password of Nuclear Missile Remote Controler/核弹遥控器密码: 
+芯片型号pt2242  ,24位有效数据 pt2242 chipset, 24 bits of valid data
+2018-11-01 17:35:13
+
+Hint for Mysterious signals: 
+无线射频频谱 radio frequency spectrum
+2018-11-01 16:19:44
+
+Hint for PUBG: 
+题目访问信息已更新，请注意！！！！ We have updated the challenge description, ATTENTION!!!!!
+
+2018-11-01 15:53:49
+
+Hint for Strange Checksum/诡异的校验: 
+We have updated the challenge information, add English description as below: We captured a disturbed signal file, fortunately, only the checksum has been disturbed, you should recover all the data according to the remaining signals(hex).
+2018-11-01 15:47:11
+
+Hint for nobof: 
+PWN题的ld.so已上传，32bit: http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so。 We have uploaded ld.so of PWN challenges, 32bit:http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so.
+2018-11-01 15:47:08
+
+Hint for Z: 
+PWN题的ld.so已上传，32bit: http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so。 We have uploaded ld.so of PWN challenges, 32bit:http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so.
+2018-11-01 15:47:04
+
+Hint for TSH: 
+PWN题的ld.so已上传，32bit: http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so。 We have uploaded ld.so of PWN challenges, 32bit:http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so.
+2018-11-01 15:44:28
+
+PWN题的ld.so已上传，32bit: http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so。 We have uploaded ld.so of PWN challenges, 32bit:http://10.99.99.13/media/logo/x32_ld-2.19.so, 64bit:http://10.99.99.13/media/logo/x64_ld-2.19.so.
+2018-11-01 15:37:10
+
+Hint for PUBG: 
+题目环境已更新http://guaika.txmeili.com:8888/a.php，验证码看不到的可以访问这个159.138.22.212; Challegen environmen has been updated, http://guaika.txmeili.com:8888/a.php, if you have problem with authorize code, please access to 159.138.22.212
+2018-11-01 14:56:34
+
+Hint for nobof: 
+本题libc放在http://10.99.99.13/media/logo/x32_libc-2.19.so； We place libc of this challenge at http://10.99.99.13/media/logo/x32_libc-2.19.so.
+2018-11-01 14:25:18
+
+Hint for Badge1: 
+Flag更新过了，尝试各种编码！Flag has been updated, try more coding!
+2018-11-01 13:58:09
+
+Hint for PUBG: 
+题目环境暂时下线，恢复访问后将发布通知。 Challenge is currently offline, we'll inform you guys when the challenge come back.
+2018-11-01 13:42:16
+
+Hint for Badge1: 
+- 1. Goto Breed - 2. Flash the CTF only Firmware
+2018-11-01 13:41:48
+
+Hint for Badge2: 
+- 1. login as root and you will see the flag - 2. flag print (sha1(therootpassword).md5(/etc/passwd))
+2018-11-01 13:40:11
+
+诡异的校验，核弹遥控器密码， Badge1，Badge2的Flag不是标准格式。 Flag for 诡异的校验，核弹遥控器密码，Badge1，Badge2 are not in standard format.
+2018-11-01 11:51:10
+
+新增了MISC题Badge2，此题和Badge1共用一个硬件设备，硬件已发放给各位参赛者。 We have added a MISC challenge Badge2, this challenge share a device with Badge1, the devices have been delivered to competitors.
+2018-11-01 11:28:34
+
+我们将四个PWN题的libc放在了http://10.99.99.13/media/logo/libc-2.19.so; We have placed libc of 4 pwn challenges at http://10.99.99.13/media/logo/libc-2.19.so.
+2018-11-01 11:08:10
+
+Hint for PUBG: 
+先找源码，题目环境正在修复。 Try to find the source code first, the author is fixing the challenge environment.
+2018-11-01 10:28:26
+
+Hint for Badge1: 
+题目所需硬件稍后提供。We will provide the hardware later.
